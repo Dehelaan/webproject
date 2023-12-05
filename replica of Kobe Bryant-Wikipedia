@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .rightf{
+            float: right;
+        }
+        .leftf{
+            float: left;
+        }
+        div{
+            display :inline-block;
+        }
+      
+    </style>
+</head>
+<body>
+    <h1>
+        Kobe Bryant
+    </h1>
+    <hr>
+    <div class="hm">
+        <div class=" leftf"><a herf="">Article</a>
+        <a herf="" style="float:left;">Talk</a>
+        </div>
+        <div class="rightf">
+            <a herf="">read</a>
+            <a herf="">view source</a>
+            <a herf="">view history</a>
+            <a herf="">tools</a>
+
+        </div>
+
+    </div>
+ 
+    <hr>
+    <div class="container" style="float: right;">
+        <img src="" alt="">
+        <p>Bryant with the <a href="">Los Angeles Lakers </a>in 2014</p>
+        <table>
+            <tr>
+                <th></th>
+                <th><b>Personal Information</b></th>
+            </tr>
+            <tr>
+                <td>Born</td>
+                <td>August 23,1978 <br> <a href="">Philadelphia,pennsylvania,U.S</a></td>
+            </tr>
+        </table>
+    </div>
+    <div class="info" style="float: left;">
+    <p>
+        From Wikipedia, the free encyclopedia
+    </p>
+    <p>Kobe Bean Bryant (/ˈkoʊbi/ KOH-bee; August 23, 1978 – January 26, 2020) was an American professional basketball player. A shooting guard, he spent his entire 20-year career with the Los Angeles Lakers in the National Basketball Association (NBA). Widely regarded as one of the greatest players in the history of the sport, Bryant won five NBA championships and was an 18-time All-Star, a 15-time member of the All-NBA Team, a 12-time member of the All-Defensive Team, the 2008 NBA Most Valuable Player (MVP), and a two-time NBA Finals MVP. Bryant also led the NBA in scoring twice and ranks fourth in league all-time regular season and postseason scoring. He was posthumously voted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.</p>
+    <p>The son of former NBA player Joe Bryant, he was born in Philadelphia and partly raised in Italy. Recognized as the top American high-school basketball player while at Philadelphia suburb Lower Merion, Bryant declared for the 1996 NBA draft and was selected by the Charlotte Hornets with the 13th overall pick; he was then traded to the Lakers. As a rookie, Bryant earned a reputation as a high-flyer by winning the 1997 Slam Dunk Contest and was named an All-Star by his second season. Despite a feud with teammate Shaquille O'Neal, the pair led the Lakers to three consecutive NBA championships from 2000 to 2002.</p>
+    <p>In 2003, Bryant was charged with sexual assault, with the alleged victim being a 19-year-old hotel employee. Criminal charges were later dropped after the accuser refused to testify, and a lawsuit was settled out of court, with Bryant issuing a public apology and admitting to a sexual encounter he maintained was consensual. The accusation briefly tarnished Bryant's reputation, resulting in the loss of several of his endorsement contracts.[3]</p>
+    <p>After the Lakers lost the 2004 NBA Finals, O'Neal was traded and Bryant became the cornerstone of the franchise. He led the NBA in scoring in the 2005–06 and 2006–07 seasons and was named league MVP in 2008. On January 22, 2006, he scored a career-high 81 points, the second most points scored in a single NBA game behind Wilt Chamberlain's 100-point game. Bryant led the team to consecutive championships in 2009 and 2010, being named NBA Finals MVP on both occasions. He continued to be among the premier players in the league through the 2012–13 season when he suffered a torn achilles tendon at age 34. His next two seasons were cut short by injuries to his knee and shoulder, respectively. Citing physical decline, Bryant retired after the 2015–16 season. In 2017, the Lakers retired both his Nos. 8 and 24, making him the only player in NBA history to have multiple numbers retired by the same franchise.</p>
+    <p>The all-time leading scorer in Lakers history, Bryant was the first guard in NBA history to play 20 seasons. His 18 All-Star designations are the second most all time, and he has the second most consecutive appearances as a starter. Bryant's four NBA All-Star Game MVP Awards are tied with Bob Pettit for the most in NBA history. He gave himself the nickname "Black Mamba" in the mid-2000s, and the epithet became widely adopted by the general public. He won gold medals on the 2008 and 2012 U.S. Olympic teams. In 2018, he won the Academy Award for Best Animated Short Film for the film Dear Basketball (2017).[4]</p>
+    <p>In 2020, Bryant, along with his daughter Gianna and seven others, died in a helicopter crash in Calabasas, California.[5] A number of tributes and memorials were subsequently issued, including renaming the All-Star MVP Award in his honor.[6]</p>    
+</div>
+</body>
+</html>
